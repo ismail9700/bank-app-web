@@ -1,9 +1,7 @@
-# Bankist
-
-Bankist is a minimalist banking web application designed to simulate core banking functionalities such as account login, balance checking, and transactions. Built with HTML, CSS, and JavaScript, it features a clean, responsive interface for an intuitive user experience.
+A minimalist banking web application designed to simulate core banking functionalities such as account login, balance checking, and transactions. Built with HTML, CSS, and JavaScript, it features a clean, responsive interface for an intuitive user experience.
 
 ## Demo
-[**Try Bankist Live**](https://ismail-bankist.netlify.app/)
+[**Try It Live**](https://ismail-bankist.netlify.app/)
 
 ## Screenshot
 ![App Screenshot](screenshots/Screenshot%202022-10-06%20at%2018-50-33%20Bankist.png)
