@@ -1,4 +1,4 @@
-A minimalist banking web application designed to simulate core banking functionalities such as account login, balance checking, and transactions. Built with HTML, CSS, and JavaScript, it features a clean, responsive interface for an intuitive user experience.
+A minimalist banking web application designed to simulate core banking functionalities such as account login, balance checking, and transactions.
 
 ## Demo
 [**Try It Live**](https://ismail-bankist.netlify.app/)
